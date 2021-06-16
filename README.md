@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, my name is Bang (they/them) 👋
 
+I recently graduated this May with a degree in Computer Science from Boston University. When I was in school, my favorite courses were Distributed, Operating Systems, and Networks. These courses have helped me to become proficient in Python, Go, and Java. I am currently attending a batch at the (https://www.recurse.com/ "Recurse Center") where I am learning more about Rust and Golang. 
+
+- 🔭 Currently learning Rust
+- 👯 I am looking to work in Backend 
+- ⚡ Fun fact: Boston locals claim that the BU Bridge is the only one in the world where a boat can sail under a train going under a vehicle driving under an airplane. However, there are two others: one in Portland, Oregon and the other one in Lisbon, Portugal. 
 <!--
 **bctran16/bctran16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
