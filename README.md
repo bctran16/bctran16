@@ -1,6 +1,8 @@
 ### Hi, my name is Bang (they/them) 👋
 
-I recently graduated this May with a degree in Computer Science from Boston University. When I was in school, my favorite courses were Distributed, Operating Systems, and Networks. These courses have helped me to become proficient in Python, Go, and Java. I am currently attending a batch at the (https://www.recurse.com/ "Recurse Center") where I am learning more about Rust and Golang. 
+I recently graduated this May with a degree in Computer Science from Boston University. When I was in school, my favorite courses were Distributed, Operating Systems, and Networks. These courses have helped me to become proficient in Python, Go, and Java. Outside of classes, I taught myself Javascript and learned more about web development in Nodejs. 
+
+I am currently attending a batch at the (https://www.recurse.com/ "Recurse Center") where I am learning more about Rust and Golang. 
 
 - 🔭 Currently learning Rust
 - 👯 I am looking to work in Backend 
